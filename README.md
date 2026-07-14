@@ -78,4 +78,4 @@ Through this project, I learned how to:
 **Anushilan Dolai**
 I'm building practical Python and SQL projects to develop strong skills in database management, automation, and data analysis for roles such as MIS Executive, Data Operations Associate, and Data Analyst.
 
-I'm building practical Python and SQL projects to develop strong skills in database management, automation, and data analysis for roles such as MIS Executive, Data Operations Associate, and Data Analyst.
+
